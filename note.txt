@@ -1,0 +1,2 @@
+SLS: about 6s for n=100
+BnBDFS: about 17s for n=15

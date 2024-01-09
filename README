@@ -1,0 +1,5 @@
+The source file is BnBDFS.cpp and SLS.cpp.
+BnBDFS.exe is currently working on the input file n=15.in. Default output file name is calledBnBDFS.out
+SLS.exe is currently working on the input file n=50.in. Default output file name is called SLS.out
+
+If you want to change the input or output file you will have to open the source file, change the infile name, and re-compile.
